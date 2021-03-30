@@ -1,6 +1,6 @@
 # pubgroup
 
-Groups the books on an Amazon Wishlist by publisher name and store it on a `JSON` file (`config.json`)
+Groups the books on an Amazon wishlist by publisher name and store it on a `JSON` file (`config.json`)
 
 ### Setup
 
